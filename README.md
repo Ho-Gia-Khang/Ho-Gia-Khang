@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ho-Gia-Khang
 - 👀 I’m interested in ... you <3
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently persueing computer science bachelor degree
 - 📫 You can contact me via my e-mail: hogiakhanglatoi@gmail.com
 
 <!---
